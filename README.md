@@ -12,7 +12,7 @@ The data feed by [つつじバスロケーションWEB API](http://www.city.saba
 
 ## Logstash
 
-The logstash configuration file requires the logstash-filter-translate community-maintenance plugin. It is required to convert the route numbers to an appropriate route name. You may install the plugin by running bin/logstash-plugin install logstash-filter-translate or comment out the lines under `translate { ... }`. 
+The logstash configuration file requires the logstash-filter-translate community-maintenance plugin. It is required to convert the route numbers to an appropriate route name. You may install the plugin by running `bin/logstash-plugin install logstash-filter-translate` or comment out the lines under `translate { ... }`. 
 
 You may also need to adjust the `interval` setting under the `http_poller` input filter. It decides how howten you are going to access the API.
 

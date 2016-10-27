@@ -1,5 +1,7 @@
 # Tsutsuji Bus - Sabae City Community Bus Monitor Demo
 
+![](https://raw.githubusercontent.com/kosho/tsutsujibus/master/tsutsujibus-screenshot.png)
+
 ## The Data Feed
 
 The data can be gathered by Tsutsuji Bus Location Web API maintained by Sabae City. This demo accesses the realtime vehicle location API through logstash periodically.

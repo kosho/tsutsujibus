@@ -140,7 +140,7 @@
     "_type": "visualization",
     "_source": {
       "title": "Tsutsujibus - Title",
-      "visState": "{\"title\":\"Tsutsujibus - Title\",\"type\":\"markdown\",\"params\":{\"markdown\":\"![](http://www.city.sabae.fukui.jp/users/tutujibus/_src/sc2108/title.png)\\n\\n### Community Bus Monitor\\n\\nData feed by [つつじバスロケーションWEB API](http://www.city.sabae.fukui.jp/users/tutujibus/web-api/web-api.html) licensed under CC-BY .\"},\"aggs\":[],\"listeners\":{}}",
+      "visState": "{\"title\":\"Tsutsujibus - Title\",\"type\":\"markdown\",\"params\":{\"markdown\":\"## 🚍 Community Bus Monitor\\n\\nData feed by [つつじバスロケーションWEB API](http://www.city.sabae.fukui.jp/users/tutujibus/web-api/web-api.html) licensed under CC-BY .\"},\"aggs\":[],\"listeners\":{}}",
       "uiStateJSON": "{}",
       "description": "",
       "version": 1,
